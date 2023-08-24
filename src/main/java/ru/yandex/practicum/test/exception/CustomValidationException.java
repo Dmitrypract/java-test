@@ -1,4 +1,4 @@
-package ru.yandex.practicum.filmorate.exception;
+package ru.yandex.practicum.test.exception;
 
 
 public class CustomValidationException extends RuntimeException {

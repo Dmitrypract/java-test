@@ -1,6 +1,6 @@
-package ru.yandex.practicum.filmorate.validator;
+package ru.yandex.practicum.test.validator;
 
-import ru.yandex.practicum.filmorate.annotations.CorrectLogin;
+import ru.yandex.practicum.test.annotations.CorrectLogin;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;

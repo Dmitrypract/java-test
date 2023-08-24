@@ -1,6 +1,6 @@
-package ru.yandex.practicum.filmorate.service;
+package ru.yandex.practicum.test.service;
 
-import ru.yandex.practicum.filmorate.model.User;
+import ru.yandex.practicum.test.model.User;
 
 import java.util.Collection;
 
